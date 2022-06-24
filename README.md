@@ -13,7 +13,7 @@
 
 ◾ I am interested in programming, development and problem solving. I have begun learing web development and making few personal projects.<br>
 
-◾ I have experience in Java, Python, Front End web development.<br>
+◾ I have experience in C, Java, Python, MATLAB and Front-end Web development.<br>
 
 <br>
 
