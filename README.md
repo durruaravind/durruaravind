@@ -25,7 +25,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-DurruAravind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durruaravind/)](https://www.linkedin.com/in/durruaravind/)
 
 [![Gmail Badge](https://img.shields.io/badge/-aravind2000d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aravind2000d@gmail.com)](mailto:aravind2000d@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-durruaravind@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:durruaravind@gmail.com)](mailto:durruaravind@gmail.com)
 
 ---
 
