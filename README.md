@@ -9,11 +9,10 @@
 <!--ABOUT ME CODE-->
 👨‍🎓 **About Me**<br>
 
-◾ I am **Durru Aravind**, currently pursuing my bachelors from IIEST, Shibpur in *Electrical Engineering*. <br>
+◾ I am **Durru Aravind**, a graduate from IIEST, Shibpur in *Electrical Engineering*. <br>
 
-◾ I am interested in programming, development and problem solving. I have begun learing web development and making few personal projects.<br>
+◾ I am interested in electronics, automation, problem-solving, and web development. <br>
 
-◾ I have experience in C, Java, Python, MATLAB and Front-end Web development.<br>
 
 <br>
 
