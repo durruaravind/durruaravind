@@ -11,8 +11,11 @@
 
 ◾ I am **Durru Aravind**, a graduate from IIEST, Shibpur in *Electrical Engineering*. <br>
 
-◾ I am interested in electronics, automation, problem-solving, and web development. <br>
+◾ I am technically interested in controls, electronics, automation, problem-solving, and development. <be>
 
+◾ With a general command of the basics, my niche comprises creating solutions for simplifying complex tasks and developing web interfaces for implementation. <br>
+
+◾ I am aspiring to delve into the world of Automation and AI to build better solutions and their supporting applications. <be>
 
 <br>
 
