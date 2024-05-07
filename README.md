@@ -15,10 +15,11 @@
 
 ◾ With a general command of the basics, my niche comprises creating solutions for simplifying complex tasks and developing web interfaces for implementation. <br>
 
-◾ I am aspiring to delve into the world of Automation and AI to build better solutions and their supporting applications. <be>
+◾ I aspire to delve into the world of Automation and AI to build better solutions and their supporting applications. <be>
 
 <br>
 
+![durruaravind's Stats](https://github-readme-stats.vercel.app/api?username=durruaravind&theme=vue-light&show_icons=true&hide_border=true&count_private=true)
 
 <!-- SOCAIL MEDIA HANDLES -->
 
