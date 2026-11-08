@@ -1,10 +1,10 @@
 ## 👋 Hello there!
 
 ### 👨‍🎓 About Me
-- I am **Durru Aravind**, a graduate from **IIEST, Shibpur** in *Electrical Engineering*.
-- Strong interest in **control systems, electronics, automation, problem-solving, and development**.
-- I enjoy building **practical automation solutions** and **web-based interfaces** for real-world use.
-- Aspiring **Automation & AI Engineer**.
+I am **Durru Aravind**, a graduate from **IIEST, Shibpur** in **Electrical Engineering**.  
+I am passionate about **Data Analytics, Automation & AI focused development**.  
+I enjoy building **industry-standard automation solutions** and **web-based interfaces** for real-world applications.  
+Aspiring **Automation & AI Engineer**.
 
 ---
 
@@ -18,6 +18,16 @@
 
 ---
 
-### 📶 Social
+### 📶 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DurruAravind-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durruaravind/)
 [![Gmail](https://img.shields.io/badge/Gmail-aravind2000d@gmail.com-red?logo=gmail&logoColor=white)](mailto:aravind2000d@gmail.com)
+
+---
+
+### 🚀 Interests
+- Data and Analytics
+- Electronics and Systems
+- Automation and RPA
+- AI & Machine Learning
+- Web Development
+- Power Platform
