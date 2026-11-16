@@ -3,8 +3,8 @@
 ## Hello, I'm Durru Aravind
 
 ### Automation & AI Engineer
-I am a graduate of **IIEST, Shibpur** with a background in **Electrical Engineering**.  
-I am passionate about **Data Analytics, Automation, AI-driven development, and building intelligent real-world systems**.
+I graduated from **IIEST, Shibpur** with **Electrical Engineering** as my major
+I am passionate about **Data Analytics, Automation, AI-driven development, and building intelligent real-world systems**
 
 I enjoy turning ideas into practical solutions through:
 - **Data and Analytics**
